@@ -6,7 +6,8 @@ I was able to create the basic page easily, not saying it is all correct. But th
 As I moved through this project, I noticed my code is messy and not in the best order. I also realize that I am putting things in and may not have a full understanding of why I am putting it in as I am, phrasing or location. I am just searching and using the answer I find.
 As I continued to work on this project I was able to get it working properly, with excepotion to the responsive layout.
 I was able to create a assets(although I spelled it assests) folder with the css in it. 
-deployed link - 
+
+deployed link - https://jayh0806.github.io/Hardy-portfolio/
 
 screenshot:
 ![image](https://user-images.githubusercontent.com/107897337/187102737-1010b10c-d474-43c0-b1b5-1d5933869c30.png)
